@@ -1,6 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+//import logo from './logo.svg';
+//import './App.css';
 
+import Home from './pages/Home';
+
+const App = () => {
+  return <Home/>;
+};
+
+/*
 function App() {
   return (
     <div className="App">
@@ -20,6 +28,6 @@ function App() {
       </header>
     </div>
   );
-}
+} */
 
 export default App;
