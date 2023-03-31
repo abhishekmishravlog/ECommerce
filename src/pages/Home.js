@@ -1,11 +1,11 @@
 import React from 'react'
-import Navbar from '../component/Navbar'
-import Announcement from '../component/Announcement'
-import Slider from '../component/Slider'
-import Categories from '../component/Categories'
-import Products from '../component/Products'
-import Newsletter from '../component/Newsletter'
-import Footer from '../component/Footer'
+import Navbar from '../components/Navbar'
+import Announcement from '../components/Announcement'
+import Slider from '../components/Slider'
+import Categories from '../components/Categories'
+import Products from '../components/Products'
+import Newsletter from '../components/Newsletter'
+import Footer from '../components/Footer'
 
 const Home = () => {
   return (
